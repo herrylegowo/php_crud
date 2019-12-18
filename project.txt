@@ -2,5 +2,5 @@
  - Membuat data-data
  - Menampilkan data-data
  - Memberikan akses siswa untuk mengupdate datanya sendiri
- - Mengapus data yang sudah tidak di inginkan, dan
+ - Menghapus data yang sudah tidak di inginkan, dan
  - Mencari data.
